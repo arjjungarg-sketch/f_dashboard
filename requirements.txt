@@ -3,8 +3,3 @@ pandas
 plotly
 streamlit
 python-dateutil
-warnings
-pathlib
-datetime
-numpy
-dateutil
